@@ -1,0 +1,55 @@
+.formularioRegistro{
+    width: 35%;
+    height: 75%;
+    border: 1px solid #000;
+    margin:auto;
+    margin-top: 25px;
+    max-width: 450px;
+}
+
+.formularioRegistro h2{
+    text-align: center;
+    padding-top: 8px;
+}
+
+.formularioRegistro label{
+    padding-left: 15%;
+}
+
+.formularioRegistro input,
+.formularioRegistro select
+{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    outline: none;
+}
+
+.formularioRegistro button{
+    margin-left: 15%;
+    width: 70%;
+    margin-top: 5px;
+    margin-bottom: 15px;
+
+}
+
+h4, h5{
+    display: inline-block;
+}
+
+.personas-container{
+    width: 250px;
+    height: 280px;
+    margin: 20px 10px 25px 10px;
+    display: inline-block;
+    border-left: 6px solid rgb(15, 150, 116);
+    padding-left: 6px;
+    padding-top: 5px;
+}
+
+
+.personas-container button{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
